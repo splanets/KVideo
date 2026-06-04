@@ -3,7 +3,7 @@
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/KuekHaoYang/KVideo)
 
 
-# 视频聚合平台 (KVideo)
+
 
 ![KVideo Banner](public/icon.png)
 
